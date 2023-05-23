@@ -53,14 +53,6 @@ module.exports =
   },
   {
     "clobbers": [
-      "wmatrix.plugin.app"
-    ],
-    "file": "plugins/wmatrix-plugin-app/www/app.js",
-    "pluginId": "wmatrix-plugin-app",
-    "id": "wmatrix-plugin-app.app"
-  },
-  {
-    "clobbers": [
       "wmatrix.plugin.screenRecorder"
     ],
     "file": "plugins/wmatrix-plugin-screenrecorder/www/screenRecorder.js",
@@ -90,8 +82,6 @@ module.exports.metadata =
 {
   "wmatrix-plugin-camera": "4.0.1",
   "wmatrix-plugin-network-information": "2.0.1",
-  "wmatrix-plugin-mvaccine": "1.1.2",
-  "wmatrix-plugin-app": "1.1.0",
   "wmatrix-plugin-screenrecorder": "1.0.0",
   "wmatrix-plugin-misc": "1.2.0",
   "wmatrix-plugin-websquare": "1.1.0"

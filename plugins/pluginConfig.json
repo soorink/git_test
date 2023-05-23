@@ -1,61 +1,10 @@
 {
   "permissions": [
     {
-      "name": "android.permission.GET_TASKS",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-mvaccine"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.USE_FULL_SCREEN_INTENT",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-mvaccine"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.REQUEST_DELETE_PACKAGES",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-mvaccine"
-        }
-      ]
-    },
-    {
       "name": "android.permission.FOREGROUND_SERVICE",
       "plugin": [
         {
-          "name": "wmatrix-plugin-mvaccine"
-        },
-        {
           "name": "wmatrix-plugin-screenrecorder"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.QUERY_ALL_PACKAGES",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-mvaccine"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.READ_EXTERNAL_STORAGE",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-app"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.WRITE_EXTERNAL_STORAGE",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-app"
         }
       ]
     },
