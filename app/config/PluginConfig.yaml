@@ -11,3 +11,6 @@ plugins:
 - name: WMatrixProviderPlugin
   onLoad: false
   pluginClass: inswave.wmatrix.base.plugin.provider.WMatrixProviderPlugin
+- name: BiometricPlugin
+  onLoad: false
+  pluginClass: wmatrix.plugin.biometric.BiometricPlugin

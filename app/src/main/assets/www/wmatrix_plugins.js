@@ -52,13 +52,21 @@ module.exports =
     ]
   },
   {
-      "clobbers": [
-        "device"
-      ],
-      "file": "plugins/wmatrix-plugin-device/www/device.js",
-      "pluginId": "wmatrix-plugin-device",
-      "id": "wmatrix-plugin-device.device"
-    }
+    "clobbers": [
+      "device"
+    ],
+    "file": "plugins/wmatrix-plugin-device/www/device.js",
+    "pluginId": "wmatrix-plugin-device",
+    "id": "wmatrix-plugin-device.device"
+  },
+  {
+    "clobbers": [
+      "wmatrix.plugin.biometric"
+    ],
+    "file": "plugins/wmatrix-plugin-biometric/www/biometric.js",
+    "pluginId": "wmatrix-plugin-biometric",
+    "id": "wmatrix-plugin-biometric.biometric"
+  }
 ];
 // BOTTOM OF MODULE
 module.exports.metadata =
@@ -66,7 +74,8 @@ module.exports.metadata =
 {
   "wmatrix-plugin-camera": "4.0.1",
   "wmatrix-plugin-network-information": "2.0.1",
-  "wmatrix-plugin-device": "2.1.0"
+  "wmatrix-plugin-device": "2.1.0",
+  "wmatrix-plugin-biometric": "1.0.3"
 };
 // BOTTOM OF METADATA
 });

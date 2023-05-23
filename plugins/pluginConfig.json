@@ -1,5 +1,23 @@
 {
-  "permissions": [],
-  "dependencies": [],
+  "permissions": [
+    {
+      "name": "android.permission.USE_BIOMETRIC",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-biometric"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "androidx.biometric:biometric",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-biometric"
+        }
+      ]
+    }
+  ],
   "gradle_plugin": []
 }

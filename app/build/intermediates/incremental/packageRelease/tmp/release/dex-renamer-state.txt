@@ -1,4 +1,0 @@
-#Tue May 23 16:00:30 KST 2023
-base.0=/Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
