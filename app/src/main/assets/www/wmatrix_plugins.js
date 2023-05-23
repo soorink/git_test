@@ -90,6 +90,14 @@ module.exports =
     "file": "plugins/wmatrix-plugin-app/www/app.js",
     "pluginId": "wmatrix-plugin-app",
     "id": "wmatrix-plugin-app.app"
+  },
+  {
+    "clobbers": [
+      "wmatrix.plugin.websquare"
+    ],
+    "file": "plugins/wmatrix-plugin-websquare/www/websquare_plugin.js",
+    "pluginId": "wmatrix-plugin-websquare",
+    "id": "wmatrix-plugin-websquare.websquare"
   }
 ];
 // BOTTOM OF MODULE
@@ -103,7 +111,8 @@ module.exports.metadata =
   "wmatrix-plugin-contents": "1.1.0",
   "wmatrix-plugin-geolocation": "1.0.0",
   "wmatrix-plugin-app": "1.1.0",
-  "wmatrix-plugin-mvaccine": "1.1.2"
+  "wmatrix-plugin-mvaccine": "1.1.2",
+  "wmatrix-plugin-websquare": "1.1.0"
 };
 // BOTTOM OF METADATA
 });
