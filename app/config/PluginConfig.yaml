@@ -5,24 +5,12 @@ plugins:
 - name: NetworkStatus
   onLoad: true
   pluginClass: inswave.wmatrix.base.plugin.networkinformation.NetworkManager
-- name: Device
-  onLoad: true
-  pluginClass: inswave.wmatrix.base.plugin.device.DevicePlugin
 - name: WMatrixProviderPlugin
   onLoad: false
   pluginClass: inswave.wmatrix.base.plugin.provider.WMatrixProviderPlugin
-- name: BiometricPlugin
+- name: ScreenRecorderPlugin
   onLoad: false
-  pluginClass: wmatrix.plugin.biometric.BiometricPlugin
-- name: ContentsPlugin
-  onLoad: false
-  pluginClass: wmatrix.plugin.contents.ContentsPlugin
-- name: Geolocation
-  onLoad: false
-  pluginClass: wmatrix.plugin.geolocation.Geolocation
+  pluginClass: wmatrix.plugin.screenrecorder.ScreenRecorderPlugin
 - name: AppPlugin
   onLoad: false
   pluginClass: wmatrix.plugin.app.AppPlugin
-- name: WebSquarePlugin
-  onLoad: false
-  pluginClass: wmatrix.plugin.websquare.WebSquarePlugin

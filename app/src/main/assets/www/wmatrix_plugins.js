@@ -53,35 +53,11 @@ module.exports =
   },
   {
     "clobbers": [
-      "device"
+      "wmatrix.plugin.screenRecorder"
     ],
-    "file": "plugins/wmatrix-plugin-device/www/device.js",
-    "pluginId": "wmatrix-plugin-device",
-    "id": "wmatrix-plugin-device.device"
-  },
-  {
-    "clobbers": [
-      "wmatrix.plugin.biometric"
-    ],
-    "file": "plugins/wmatrix-plugin-biometric/www/biometric.js",
-    "pluginId": "wmatrix-plugin-biometric",
-    "id": "wmatrix-plugin-biometric.biometric"
-  },
-  {
-    "clobbers": [
-      "wmatrix.plugin.contents"
-    ],
-    "file": "plugins/wmatrix-plugin-contents/www/contents.js",
-    "pluginId": "wmatrix-plugin-contents",
-    "id": "wmatrix-plugin-contents.contents"
-  },
-  {
-    "clobbers": [
-      "navigator.geolocation"
-    ],
-    "file": "plugins/wmatrix-plugin-geolocation/www/geolocation.js",
-    "pluginId": "wmatrix-plugin-geolocation",
-    "id": "wmatrix-plugin-geolocation.geolocation"
+    "file": "plugins/wmatrix-plugin-screenrecorder/www/screenRecorder.js",
+    "pluginId": "wmatrix-plugin-screenrecorder",
+    "id": "wmatrix-plugin-screenrecorder.screenRecorder"
   },
   {
     "clobbers": [
@@ -90,14 +66,6 @@ module.exports =
     "file": "plugins/wmatrix-plugin-app/www/app.js",
     "pluginId": "wmatrix-plugin-app",
     "id": "wmatrix-plugin-app.app"
-  },
-  {
-    "clobbers": [
-      "wmatrix.plugin.websquare"
-    ],
-    "file": "plugins/wmatrix-plugin-websquare/www/websquare_plugin.js",
-    "pluginId": "wmatrix-plugin-websquare",
-    "id": "wmatrix-plugin-websquare.websquare"
   }
 ];
 // BOTTOM OF MODULE
@@ -106,13 +74,9 @@ module.exports.metadata =
 {
   "wmatrix-plugin-camera": "4.0.1",
   "wmatrix-plugin-network-information": "2.0.1",
-  "wmatrix-plugin-device": "2.1.0",
-  "wmatrix-plugin-biometric": "1.0.3",
-  "wmatrix-plugin-contents": "1.1.0",
-  "wmatrix-plugin-geolocation": "1.0.0",
-  "wmatrix-plugin-app": "1.1.0",
   "wmatrix-plugin-mvaccine": "1.1.2",
-  "wmatrix-plugin-websquare": "1.1.0"
+  "wmatrix-plugin-screenrecorder": "1.0.0",
+  "wmatrix-plugin-app": "1.1.0"
 };
 // BOTTOM OF METADATA
 });

@@ -1,46 +1,6 @@
 {
   "permissions": [
     {
-      "name": "android.permission.USE_BIOMETRIC",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-biometric"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.ACCESS_COARSE_LOCATION",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-geolocation"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.ACCESS_FINE_LOCATION",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-geolocation"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.READ_EXTERNAL_STORAGE",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-app"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.WRITE_EXTERNAL_STORAGE",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-app"
-        }
-      ]
-    },
-    {
       "name": "android.permission.GET_TASKS",
       "plugin": [
         {
@@ -69,6 +29,9 @@
       "plugin": [
         {
           "name": "wmatrix-plugin-mvaccine"
+        },
+        {
+          "name": "wmatrix-plugin-screenrecorder"
         }
       ]
     },
@@ -79,17 +42,40 @@
           "name": "wmatrix-plugin-mvaccine"
         }
       ]
-    }
-  ],
-  "dependencies": [
+    },
     {
-      "name": "androidx.biometric:biometric",
+      "name": "android.permission.RECORD_AUDIO",
       "plugin": [
         {
-          "name": "wmatrix-plugin-biometric"
+          "name": "wmatrix-plugin-screenrecorder"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.SYSTEM_ALERT_WINDOW",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-screenrecorder"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.READ_EXTERNAL_STORAGE",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-app"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-app"
         }
       ]
     }
   ],
+  "dependencies": [],
   "gradle_plugin": []
 }

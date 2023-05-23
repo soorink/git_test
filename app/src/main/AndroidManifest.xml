@@ -16,15 +16,15 @@
     <activity android:name="wmatrix.plugin.mvaccine.MVaccineDialogActivity" android:configChanges="orientation|keyboardHidden|screenLayout|screenSize|smallestScreenSize|keyboard" android:launchMode="singleTop" android:resizeableActivity="true" android:exported="true"/>
     <service android:name="com.TouchEn.mVaccine.b2b2c.service.OnInstallService" android:process=":remote"/>
     <service android:name="com.TouchEn.mVaccine.b2b2c.service.DetectionResultSendService" android:process=":remote"/>
+    <service android:name="wmatrix.plugin.screenrecorder.ScreenRecorderService" android:enabled="true" android:exported="false" android:foregroundServiceType="mediaProjection"/>
   </application>
-  <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
-  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
-  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
   <uses-permission android:name="android.permission.GET_TASKS"/>
   <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES"/>
-  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
   <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT"/>
   <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+  <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 </manifest>
