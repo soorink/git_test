@@ -7,6 +7,38 @@
           "name": "wmatrix-plugin-biometric"
         }
       ]
+    },
+    {
+      "name": "android.permission.ACCESS_COARSE_LOCATION",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-geolocation"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.ACCESS_FINE_LOCATION",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-geolocation"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.READ_EXTERNAL_STORAGE",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-app"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-app"
+        }
+      ]
     }
   ],
   "dependencies": [
