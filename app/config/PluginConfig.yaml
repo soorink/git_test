@@ -11,3 +11,12 @@ plugins:
 - name: AppPlugin
   onLoad: false
   pluginClass: wmatrix.plugin.app.AppPlugin
+- name: ScreenRecorderPlugin
+  onLoad: false
+  pluginClass: wmatrix.plugin.screenrecorder.ScreenRecorderPlugin
+- name: MiscPlugin
+  onLoad: true
+  pluginClass: wmatrix.plugin.misc.MiscPlugin
+- name: WebSquarePlugin
+  onLoad: false
+  pluginClass: wmatrix.plugin.websquare.WebSquarePlugin

@@ -58,6 +58,30 @@ module.exports =
     "file": "plugins/wmatrix-plugin-app/www/app.js",
     "pluginId": "wmatrix-plugin-app",
     "id": "wmatrix-plugin-app.app"
+  },
+  {
+    "clobbers": [
+      "wmatrix.plugin.screenRecorder"
+    ],
+    "file": "plugins/wmatrix-plugin-screenrecorder/www/screenRecorder.js",
+    "pluginId": "wmatrix-plugin-screenrecorder",
+    "id": "wmatrix-plugin-screenrecorder.screenRecorder"
+  },
+  {
+    "clobbers": [
+      "wmatrix.plugin.misc"
+    ],
+    "file": "plugins/wmatrix-plugin-misc/www/misc.js",
+    "pluginId": "wmatrix-plugin-misc",
+    "id": "wmatrix-plugin-misc.misc"
+  },
+  {
+    "clobbers": [
+      "wmatrix.plugin.websquare"
+    ],
+    "file": "plugins/wmatrix-plugin-websquare/www/websquare_plugin.js",
+    "pluginId": "wmatrix-plugin-websquare",
+    "id": "wmatrix-plugin-websquare.websquare"
   }
 ];
 // BOTTOM OF MODULE
@@ -67,7 +91,10 @@ module.exports.metadata =
   "wmatrix-plugin-camera": "4.0.1",
   "wmatrix-plugin-network-information": "2.0.1",
   "wmatrix-plugin-mvaccine": "1.1.2",
-  "wmatrix-plugin-app": "1.1.0"
+  "wmatrix-plugin-app": "1.1.0",
+  "wmatrix-plugin-screenrecorder": "1.0.0",
+  "wmatrix-plugin-misc": "1.2.0",
+  "wmatrix-plugin-websquare": "1.1.0"
 };
 // BOTTOM OF METADATA
 });
