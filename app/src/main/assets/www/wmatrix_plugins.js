@@ -102,7 +102,8 @@ module.exports.metadata =
   "wmatrix-plugin-biometric": "1.0.3",
   "wmatrix-plugin-contents": "1.1.0",
   "wmatrix-plugin-geolocation": "1.0.0",
-  "wmatrix-plugin-app": "1.1.0"
+  "wmatrix-plugin-app": "1.1.0",
+  "wmatrix-plugin-mvaccine": "1.1.2"
 };
 // BOTTOM OF METADATA
 });

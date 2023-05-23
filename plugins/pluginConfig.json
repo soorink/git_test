@@ -39,6 +39,46 @@
           "name": "wmatrix-plugin-app"
         }
       ]
+    },
+    {
+      "name": "android.permission.GET_TASKS",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-mvaccine"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.USE_FULL_SCREEN_INTENT",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-mvaccine"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.REQUEST_DELETE_PACKAGES",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-mvaccine"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.FOREGROUND_SERVICE",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-mvaccine"
+        }
+      ]
+    },
+    {
+      "name": "android.permission.QUERY_ALL_PACKAGES",
+      "plugin": [
+        {
+          "name": "wmatrix-plugin-mvaccine"
+        }
+      ]
     }
   ],
   "dependencies": [

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mv_app_name">TouchEn mVaccine</string>
+    <string name="mv_mVaccineScanning">mVaccine is Running</string>
+    <string name="mv_COMMON_COPYRIGHT">© RAONSECURE,Inc. All rights reserved.</string>
+    <string name="mv_dialog_stopdialog_textview">seconds after, Scanning will in the background</string>
+    <string name="mv_no">no</string>
+    <string name="mv_yes">yes</string>
+    <string name="mv_msg_rootingdbfail">mVaccine init failed. Can not run on rooted devcie.</string>
+    <string name="mv_msg_rootingexitapp">Can not run on rooted devcie</string>
+    <string name="mv_msg_rootingyesorno">This device was rooted ,If you click yes scanning will be stopped . you click no scanning will be continued </string>
+    <string name="mv_msg_rootingyes">This device was rooted , Is not safe </string>
+    <string name="mv_count">count : </string>
+    <string name="mv_infected">infected : </string>
+    <string name="mv_pattern">pattern : </string>
+    <string name="mv_engine">engine : </string>
+    <string name="mv_dualengine">dualengine : </string>
+    <string name="mv_scan_result">Result</string>
+    <string name="mv_scan_result_msg">Malware detected. if you want to remove, click yes.</string>
+    <string name="mv_scan_detect_malware">Malware detected! </string>
+    <string name="mv_title_rootscan">Check rooting </string>
+    <string name="mv_msg_rootapp">Rooting related apps installed. Please run it again after deletion. </string>
+    <string name="mv_msg_rootprocess">Rooting related activity has been detected. Please run it again after deletion. </string>
+    <string name="mv_msg_virusprocess">Malware has been detected. Please run it again after deletion. </string>
+    <string name="mv_msg_detect_malware_count"> malware detected </string>
+    <string name="mv_msg_surenot_delete">You did not remove malware. Are you sure to exit ? </string>
+    <string name="mv_delete">delete</string>
+    <string name="mv_close">close</string>
+    <string name="mv_malware_name">malware name : </string>
+    <string name="mv_risk_high">risk : high</string>
+    <string name="mv_stop">stop</string>
+    <string name="mv_scanning_middle_title">scanning. . .</string>
+    <string name="mv_path">path: </string>
+    <string name="mv_msg_updateprogress"> Being updated.\nIt take several seconds defending on network speed </string>
+    <string name="mv_check_license">check license</string>
+    <string name="mv_license_expired">license expired</string>
+    <string name="mv_license_not_matched">your license key is invalid</string>
+    <string name="mv_siteid_error">your site id is invalid</string>
+    <string name="mv_sure_stop_scan">Are you sure to stop the scan?</string>
+    <string name="mv_msg_remote_connection_dected">Remote Access detected</string>
+    <string name="mv_msg_remote_connection_title">Remote Access </string>
+    <string name="mv_realtime_title">Realtime Scanning</string>
+    <string name="mv_realtime_message">Scanning Installed App on Realtime</string>
+    <string name="mv_malware_detect_headup_title">Malware detected</string>
+    <string name="mv_malware_detect_headup_message">Remove malware now</string>
+    <string name="mv_channel_discript_detect_malware">This is for Malware Detection</string>
+    <string name="mv_channel_discript_detect_mvaccine">This is for mVaccine Detection</string>
+    <string name="mv_msg_dbexitapp">Fail to verify data integrity.</string>
+
+</resources>

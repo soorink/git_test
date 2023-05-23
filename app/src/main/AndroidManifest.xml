@@ -9,10 +9,22 @@
     <provider android:name="androidx.core.content.FileProvider" android:authorities="${applicationId}.provider" android:exported="false" android:grantUriPermissions="true">
       <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths" tools:replace="android:resource"/>
     </provider>
+    <activity android:name="com.TouchEn.mVaccine.b2b2c.activity.ScanActivity" android:theme="@style/Theme.mVaccine.NoTitleBar" android:screenOrientation="fullSensor"/>
+    <activity android:name="com.TouchEn.mVaccine.b2b2c.activity.BackgroundScanActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:theme="@style/Theme.mVaccine.Transparent"/>
+    <activity android:name="com.TouchEn.mVaccine.b2b2c.activity.ResultLogActivity" android:screenOrientation="fullSensor" android:exported="false" android:theme="@style/Theme.mVaccine.NoTitleBar"/>
+    <activity android:name="com.TouchEn.mVaccine.b2b2c.activity.BackgroundScan" android:theme="@style/Theme.mVaccine.Transparent"/>
+    <activity android:name="wmatrix.plugin.mvaccine.MVaccineDialogActivity" android:configChanges="orientation|keyboardHidden|screenLayout|screenSize|smallestScreenSize|keyboard" android:launchMode="singleTop" android:resizeableActivity="true" android:exported="true"/>
+    <service android:name="com.TouchEn.mVaccine.b2b2c.service.OnInstallService" android:process=":remote"/>
+    <service android:name="com.TouchEn.mVaccine.b2b2c.service.DetectionResultSendService" android:process=":remote"/>
   </application>
   <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.GET_TASKS"/>
+  <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+  <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT"/>
+  <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
 </manifest>
