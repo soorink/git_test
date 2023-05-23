@@ -5,7 +5,7 @@ wmatrix:
       applicationId: inswave.wmatrix.template
       appName: WMatrix (Product)
       appVersion: 0.0.1
-      appVersionCode: 3
+      appVersionCode: 4
       minSdkVersion: 21
       useServerSelectScreen: false
       server:

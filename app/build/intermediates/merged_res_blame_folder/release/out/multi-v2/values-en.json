@@ -4,7 +4,7 @@
             "outputFile": "inswave.wmatrix.template.app-mergeReleaseResources-43:/values-en/values-en.xml",
             "map": [
                 {
-                    "source": "/Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/res/values-en/strings.xml",
+                    "source": "/Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/res/values-en/strings.xml",
                     "from": {
                         "startLines": "24,25,42,27,26,19,28,7,8,9,10,11,12,13,6,2,3,4,5,16,17,18,21,20,14,15,41,29,30,31,32,33,34,35,36,38,39,37,40",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

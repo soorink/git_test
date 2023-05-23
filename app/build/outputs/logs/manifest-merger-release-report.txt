@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:9:5-11:16
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:9:5-11:16
 	android:grantUriPermissions
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:9:138-172
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:9:138-172
 	android:authorities
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:9:65-112
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:9:65-112
 	android:exported
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:9:113-137
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:9:113-137
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:9:15-64
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:9:15-64
 manifest
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/soorink/.gradle/caches/transforms-3/0129b88048655a23f83b00ed0d9edf53/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.8.0] /Users/soorink/.gradle/caches/transforms-3/0aaee307accf15f8d3baca153211543b/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
@@ -80,27 +80,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/soorink/.gradle/ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/soorink/.gradle/caches/transforms-3/8cb829226f0b3b498d3188c0e7579f1f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/soorink/.gradle/caches/transforms-3/0d34b9ab2a75ea1db114287effabc5cb/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/soorink/.gradle/caches/transforms-3/6f2bd808b78634999b0980d105656adf/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
 	package
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:117-151
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:117-151
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:70-116
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:70-116
 	android:versionCode
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:1-18:12
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:1-18:12
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:3-13:17
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:3-13:17
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:30:5-32:19
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:30:5-32:19
 MERGED from [com.google.android.material:material:1.8.0] /Users/soorink/.gradle/caches/transforms-3/0aaee307accf15f8d3baca153211543b/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
@@ -124,86 +124,86 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/soorink/.gradle/cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/soorink/.gradle/caches/transforms-3/10ec2b67907366ff68b2cc1e83e62d26/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:196-222
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:196-222
 	android:label
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:79-124
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:79-124
 	tools:ignore
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:291-330
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:291-330
 	android:roundIcon
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:150-195
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:150-195
 	tools:targetApi
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:396-415
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:396-415
 	android:largeHeap
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:125-149
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:125-149
 	android:icon
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:44-78
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:44-78
 	android:allowBackup
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:16-43
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:16-43
 		REJECTED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:30:18-45
 	android:theme
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:223-254
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:223-254
 	tools:replace
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:331-395
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:331-395
 	android:usesCleartextTraffic
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:2:255-290
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:2:255-290
 activity#inswave.wmatrix.template.TemplateActivity
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:5-8:16
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:5-8:16
 	android:launchMode
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:186-216
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:186-216
 	android:exported
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:162-185
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:162-185
 	android:resizeableActivity
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:260-293
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:260-293
 	android:configChanges
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:48-161
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:48-161
 	android:theme
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:217-259
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:217-259
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:3:15-47
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:3:15-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:4:7-7:23
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:4:7-7:23
 action#android.intent.action.MAIN
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:5:9-60
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:5:9-60
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:5:17-58
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:5:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:6:9-68
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:6:9-68
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:6:19-66
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:6:19-66
 service#wmatrix.plugin.screenrecorder.ScreenRecorderService
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:12:5-178
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:12:5-178
 	android:enabled
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:12:81-103
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:12:81-103
 	android:exported
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:12:104-128
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:12:104-128
 	android:foregroundServiceType
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:12:129-176
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:12:129-176
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:12:14-80
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:12:14-80
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:14:3-68
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:14:3-68
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:16:5-71
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:16:5-71
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:14:20-66
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:14:20-66
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:15:3-75
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:15:3-75
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:15:20-73
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:15:20-73
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:16:3-74
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:16:3-74
 MERGED from [androidx.work:work-runtime:2.7.1] /Users/soorink/.gradle/caches/transforms-3/b8c2140744cf7f4cf2441ee9280ae812/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
 MERGED from [androidx.work:work-runtime:2.7.1] /Users/soorink/.gradle/caches/transforms-3/b8c2140744cf7f4cf2441ee9280ae812/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:16:20-72
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:16:20-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:17:3-73
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:17:3-73
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:17:20-71
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:17:20-71
 uses-sdk
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:5:5-44
 MERGED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/soorink/.gradle/caches/transforms-3/0129b88048655a23f83b00ed0d9edf53/transformed/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
@@ -334,24 +334,24 @@ MERGED from [androidx.print:print:1.0.0] /Users/soorink/.gradle/caches/transform
 MERGED from [androidx.print:print:1.0.0] /Users/soorink/.gradle/caches/transforms-3/0d34b9ab2a75ea1db114287effabc5cb/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/soorink/.gradle/caches/transforms-3/6f2bd808b78634999b0980d105656adf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/soorink/.gradle/caches/transforms-3/6f2bd808b78634999b0980d105656adf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:10:7-142
+ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:10:7-142
 	android:resource
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:10:69-107
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:10:69-107
 	tools:replace
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:10:108-140
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:10:108-140
 	android:name
-		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/src/main/AndroidManifest.xml:10:18-68
+		ADDED from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/src/main/AndroidManifest.xml:10:18-68
 uses-permission#android.permission.INTERNET
 ADDED from [WMatrix_1.3.6.7.aar] /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/AndroidManifest.xml:7:5-67
 	android:name

@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/build/intermediates/default_proguard_files/global/proguard-android.txt-7.4.1
+# The proguard configuration file for the following section is /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/build/intermediates/default_proguard_files/global/proguard-android.txt-7.4.1
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,8 +116,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/build/intermediates/default_proguard_files/global/proguard-android.txt-7.4.1
-# The proguard configuration file for the following section is /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/build/intermediates/default_proguard_files/global/proguard-android.txt-7.4.1
+# The proguard configuration file for the following section is /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.core.content.FileProvider { <init>(); }
 -keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
@@ -229,7 +229,7 @@
 -keep class com.google.android.material.timepicker.TimePickerView { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P304/PROJECT_P304/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /Users/soorink/w-hive/builder/builder_main/DOMAIN_5/USER_2/WORKSPACE_W5/PROJECT_P305/PROJECT_P305/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /Users/soorink/.gradle/caches/transforms-3/5d24050b22672baee0b19fefef74ec74/transformed/jetified-WMatrix_1.3.6.7/proguard.txt
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
