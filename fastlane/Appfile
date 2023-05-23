@@ -1,0 +1,2 @@
+json_key_file("/Users/Wmatrix/Google Play Android Developer-8655dafe0722.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("inswave.wmatrix.banking") # e.g. com.krausefx.app
