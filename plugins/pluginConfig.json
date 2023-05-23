@@ -29,9 +29,6 @@
       "plugin": [
         {
           "name": "wmatrix-plugin-mvaccine"
-        },
-        {
-          "name": "wmatrix-plugin-screenrecorder"
         }
       ]
     },
@@ -40,22 +37,6 @@
       "plugin": [
         {
           "name": "wmatrix-plugin-mvaccine"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.RECORD_AUDIO",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-screenrecorder"
-        }
-      ]
-    },
-    {
-      "name": "android.permission.SYSTEM_ALERT_WINDOW",
-      "plugin": [
-        {
-          "name": "wmatrix-plugin-screenrecorder"
         }
       ]
     },
