@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "inswave.wmatrix.template.app-mergeReleaseResources-44:/layout/loading_layout.xml",
+        "source": "inswave.wmatrix.template.app-main-46:/layout/loading_layout.xml"
+    },
+    {
+        "merged": "inswave.wmatrix.template.app-mergeReleaseResources-44:/layout/template_main.xml",
+        "source": "inswave.wmatrix.template.app-main-46:/layout/template_main.xml"
+    }
+]

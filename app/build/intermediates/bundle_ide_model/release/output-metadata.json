@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "BUNDLE",
+    "kind": "RegularFile"
+  },
+  "applicationId": "inswave.wmatrix.template",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../../outputs/bundle/release/WMatrix (Product)_v0.0.1_20230524075605-release.aab"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "inswave.wmatrix.template.app-mergeReleaseResources-43:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/soorink/.gradle/caches/transforms-3/10ec2b67907366ff68b2cc1e83e62d26/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/soorink/.gradle/caches/transforms-3/8969f10381910f69902dc91ac3f0efad/transformed/appcompat-1.6.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
